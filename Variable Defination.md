@@ -1,4 +1,4 @@
-# Zinmat-Insurance-Recommendation
+# Zinmat-Insurance-Recommendation Variable Defination
 ID - unique user id
 
 join_date - date the joined zimnat
